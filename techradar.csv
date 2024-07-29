@@ -1,0 +1,44 @@
+name,ring,quadrant,isNew,status,description
+uniFLOW,Adopt,Platforms,no change,FALSE,PrintUNIL
+MSSQL,Hold,Tools,no change,FALSE,Base de données
+BookStack,Adopt,Platforms,moved in,FALSE,Wiki
+MariaDB,Adopt,Tools,no change,FALSE,Base de données
+Bitwarden,Adopt,Platforms,no change,FALSE,Password Manager
+WordPress,Adopt,Platforms,no change,FALSE,Sites Web
+FileMaker Pro,Adopt,Platforms,no change,FALSE,Base de données
+Microsoft Teams,Adopt,Platforms,no change,FALSE,Communication unifiée
+SharePoint Online,Adopt,Plaforms,moved in,FALSE,GEDUNIL
+Power Apps,Trial,Tools,new,TRUE,GEDUNIL
+Azure Cloud Services,Assess,Platforms,new,TRUE,GEDUNIL
+Power Automate,Trial,Tools,new,TRUE,GEDUNIL
+Premium URL Shortener,Adopt,Plaforms,moved in,FALSE,Shorteneur d'URL
+Cisco Secure email gatway,Adopt,Platforms,no change,FALSE,Antispam et sécurité messagerie
+Exchange Online,Adopt,Platforms,no change,FALSE,Messagerie
+SAP-IDM,Hold,Plaforms,no change,FALSE,Gestion des comptes
+Comet Backup,Adopt,Plaforms,no change,FALSE,Backup poste de travail
+OTOBO,Adopt,Plaforms,no change,FALSE,Suivi des demandes
+Edu-ID (Shibboleth),Adopt,Plaforms,no change,FALSE,Authentification SSO
+EndNote,Adopt,Plaforms,no change,FALSE,Bibliographie 
+Zotero,Assess,Platforms,new,TRUE,Bibliographie 
+OneDrive,Adopt,Plaforms,moved in,FALSE,Synchronisation de fichiers
+Cachet,Hold,Plaforms,no change,FALSE,Etat des services
+Dreamspark,Hold,Plaforms,no change,FALSE,Banque d'images
+Sympa,Adopt,Platforms,no change,FALSE,Liste de diffusion
+LimeSurvey,Adopt,Platforms,no change,FALSE,Enquête en ligne
+Microsoft Forms,Assess,Platforms,no change,FALSE,Formulaire en ligne
+Microsoft Defender for Endpoint,Adopt,Platforms,moved in,FALSE,Sécurité du poste de travail
+Microsoft Intune,Trial,Platforms,new,TRUE,Gestion de parc (MDM)
+JamF Pro,Trial,Platforms,no change,FALSE,Gestion de parc (MDM)
+Microsoft Copilot,Adopt,Platforms,moved in,FALSE,Assistant virtuel (AI)
+OpenLDAP,Adopt,Platforms,no change,FALSE,Annuaire
+Microsoft Entra ID,Adopt,Platforms,no change,FALSE,Annuaire
+SWITCHfilesender,Adopt,Tools,no change,FALSE,Envoi de fichiers volumineux
+VMWare Horizon,Hold,Platforms,no change,FALSE,Salles informatiques des facultés (VDI)
+OTOBO,Adopt,Platforms,no change,FALSE,Distribution de logiciels
+ARCGIS PRO,Adopt,Platforms,no change,FALSE,Système d'information géographique (SIG)
+QGIS,Adopt,Platforms,no change,FALSE,Système d'information géographique (SIG)
+AutoDesk,Adopt,Platforms,no change,FALSE,Système d'information géographique (SIG)
+LinkedIn Learning,Adopt,Tools,no change,FALSE,E-learning
+PHP,Adopt,languages-and-frameworks,no change,FALSE,Formulaire en ligne
+API,Adopt,Techniques,no change,FALSE,Générique
+UKS,Adopt,Tools,moved in,FALSE,Générique
