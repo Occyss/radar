@@ -59,6 +59,7 @@ Docker,Adopt,Tools,no change,FALSE,Docker is a platform for developing, shipping
 DevOps,Adopt,Techniques,no change,FALSE,DevOps is a set of practices that combines software development and IT operations to shorten the development lifecycle.
 Service Lifecycle Management,Adopt,Techniques,no change,FALSE,Service Lifecycle Management is the practice of managing the entire lifecycle of a service from inception to retirement.
 Workflow & Automation,Adopt,Techniques,no change,FALSE,Workflow & Automation involves designing, executing, and automating processes to improve efficiency and productivity.
+Jahia,Adopt,Platforms,no change,FALSE,	Jahia is a content management system used for creating websites.
 Service Continuity,Adopt,Techniques,no change,FALSE,Service Continuity is a set of strategies and processes that ensure the continuous availability and resilience of essential services.
 Agile Methodology,Trial,Techniques,new,TRUE,Agile Methodology is an iterative approach to software development that emphasizes flexibility and customer collaboration.
 Microsoft Copilot,Assess,Tools,new,TRUE,Microsoft Copilot is a conversational AI designed to assist you with a wide range of tasks.
