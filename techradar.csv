@@ -1,44 +1,64 @@
 name,ring,quadrant,isNew,status,description
-uniFLOW,Adopt,Platforms,no change,FALSE,PrintUNIL
-MSSQL,Hold,Tools,no change,FALSE,Base de données
-BookStack,Adopt,Platforms,moved in,FALSE,Wiki
-MariaDB,Adopt,Tools,no change,FALSE,Base de données
-Bitwarden,Adopt,Platforms,no change,FALSE,Password Manager
-WordPress,Adopt,Platforms,no change,FALSE,Sites Web
-FileMaker Pro,Adopt,Platforms,no change,FALSE,Base de données
-Microsoft Teams,Adopt,Platforms,no change,FALSE,Communication unifiée
-SharePoint Online,Adopt,Plaforms,moved in,FALSE,GEDUNIL
-Power Apps,Trial,Tools,new,TRUE,GEDUNIL
-Azure Cloud Services,Assess,Platforms,new,TRUE,GEDUNIL
-Power Automate,Trial,Tools,new,TRUE,GEDUNIL
-Premium URL Shortener,Adopt,Plaforms,moved in,FALSE,Shorteneur d'URL
-Cisco Secure email gatway,Adopt,Platforms,no change,FALSE,Antispam et sécurité messagerie
-Exchange Online,Adopt,Platforms,no change,FALSE,Messagerie
-SAP-IDM,Hold,Plaforms,no change,FALSE,Gestion des comptes
-Comet Backup,Adopt,Plaforms,no change,FALSE,Backup poste de travail
-OTOBO,Adopt,Plaforms,no change,FALSE,Suivi des demandes
-Edu-ID (Shibboleth),Adopt,Plaforms,no change,FALSE,Authentification SSO
-EndNote,Adopt,Plaforms,no change,FALSE,Bibliographie 
-Zotero,Adopt,Platforms,new,TRUE,Bibliographie 
-OneDrive,Adopt,Plaforms,moved in,FALSE,Synchronisation de fichiers
-Cachet,Hold,Plaforms,no change,FALSE,Etat des services
-Dreamspark,Hold,Plaforms,no change,FALSE,Banque d'images
-Sympa,Adopt,Platforms,no change,FALSE,Liste de diffusion
-LimeSurvey,Adopt,Platforms,no change,FALSE,Enquête en ligne
-Microsoft Forms,Assess,Platforms,no change,FALSE,Formulaire en ligne
-Microsoft Defender for Endpoint,Adopt,Platforms,moved in,FALSE,Sécurité du poste de travail
-Microsoft Intune,Trial,Platforms,new,TRUE,Gestion de parc (MDM)
-JamF Pro,Trial,Platforms,no change,FALSE,Gestion de parc (MDM)
-Microsoft Copilot,Adopt,Platforms,moved in,FALSE,Assistant virtuel (AI)
-OpenLDAP,Adopt,Platforms,no change,FALSE,Annuaire
-Microsoft Entra ID,Adopt,Platforms,no change,FALSE,Annuaire
-SWITCHfilesender,Adopt,Tools,no change,FALSE,Envoi de fichiers volumineux
-VMWare Horizon,Hold,Platforms,no change,FALSE,Salles informatiques des facultés (VDI)
-OTOBO,Adopt,Platforms,no change,FALSE,Distribution de logiciels
-ARCGIS PRO,Adopt,Platforms,no change,FALSE,Système d'information géographique (SIG)
-QGIS,Adopt,Platforms,no change,FALSE,Système d'information géographique (SIG)
-AutoDesk,Adopt,Platforms,no change,FALSE,Système d'information géographique (SIG)
-LinkedIn Learning,Adopt,Tools,no change,FALSE,E-learning
-PHP,Adopt,languages-and-frameworks,no change,FALSE,Formulaire en ligne
-API,Adopt,Techniques,no change,FALSE,Générique
-UKS,Adopt,Tools,moved in,FALSE,Générique
+uniFLOW,Adopt,Platforms,no change,FALSE,uniFLOW is a comprehensive software platform designed to manage print, scan, and device management.
+MSSQL,Hold,Tools,no change,FALSE,MSSQL is a relational database management system developed by Microsoft.
+BookStack,Adopt,Platforms,moved in,FALSE,BookStack is an open-source platform for creating and organizing documentation and wikis.
+MariaDB,Adopt,Tools,no change,FALSE,MariaDB is a community-developed fork of MySQL, offering enhanced performance and features.
+Bitwarden,Adopt,Platforms,no change,FALSE,Bitwarden is an open-source password manager that securely stores and manages passwords.
+WordPress,Adopt,Platforms,no change,FALSE,WordPress is a popular content management system used for creating websites and blogs.
+FileMaker Pro,Adopt,Platforms,no change,FALSE,FileMaker Pro is a cross-platform relational database application from Claris International.
+Microsoft Teams,Adopt,Platforms,no change,FALSE,Microsoft Teams is a collaboration platform that integrates with Office 365 for chat, meetings, and file sharing.
+SharePoint Online,Adopt,Plaforms,moved in,FALSE,SharePoint Online is a cloud-based service for creating, managing, and sharing documents and intranet sites.
+Power Apps,Trial,Tools,new,TRUE,Power Apps is a suite of apps, services, connectors, and a data platform for rapid application development.
+Azure Cloud Services,Assess,Platforms,new,TRUE,Azure Cloud Services is a collection of cloud computing services for building, testing, and managing applications.
+Power Automate,Trial,Tools,new,TRUE,Power Automate is a service that helps automate workflows between apps and services to synchronize files and collect data.
+Premium URL Shortener,Adopt,Plaforms,moved in,FALSE,Premium URL Shortener is a web-based URL shortener service that provides analytics and custom short URLs.
+Cisco Secure email gatway,Adopt,Platforms,no change,FALSE,Cisco Secure Email Gateway is a security solution that protects against email threats and ensures safe communications.
+Exchange Online,Adopt,Platforms,no change,FALSE,Exchange Online is a cloud-based email and calendaring service from Microsoft.
+SAP-IDM,Hold,Plaforms,no change,FALSE,SAP-IDM is an identity management solution for managing users and their access rights across systems.
+Comet Backup,Adopt,Plaforms,no change,FALSE,Comet Backup is a flexible and secure backup solution for servers, desktops, and laptops.
+OTOBO,Adopt,Plaforms,no change,FALSE,OTOBO is an open-source ticketing and process management system.
+SWITCH Edu-ID,Adopt,Plaforms,no change,FALSE,SWITCH Edu-ID is a single sign-on identity management solution for the Swiss academic community.
+EndNote,Adopt,Plaforms,no change,FALSE,EndNote is a reference management software used to manage bibliographies and references.
+Zotero,Adopt,Platforms,new,TRUE,Zotero is a free, open-source reference management tool for collecting, organizing, and citing research.
+OneDrive,Adopt,Plaforms,moved in,FALSE,OneDrive is a file hosting service from Microsoft that allows for file storage and synchronization.
+Cachet,Hold,Plaforms,no change,FALSE,Cachet is an open-source status page system for monitoring and communicating the status of systems.
+Sympa,Adopt,Platforms,no change,FALSE,Sympa is an open-source mailing list management software.
+LimeSurvey,Adopt,Platforms,no change,FALSE,LimeSurvey is an open-source survey tool for creating and managing online surveys.
+Microsoft Forms,Assess,Platforms,no change,FALSE,Microsoft Forms is a web-based application for creating surveys, quizzes, and polls.
+Microsoft Defender for Endpoint,Adopt,Platforms,moved in,FALSE,Microsoft Defender for Endpoint is a security platform for preventing, detecting, and responding to threats.
+Microsoft Intune,Trial,Platforms,new,TRUE,Microsoft Intune is a cloud-based service for managing devices and applications.
+JamF Pro,Trial,Platforms,no change,FALSE,JamF Pro is an Apple device management solution for deploying and managing macOS and iOS devices.
+OpenLDAP,Adopt,Platforms,no change,FALSE,OpenLDAP is an open-source implementation of the Lightweight Directory Access Protocol for directory services.
+Microsoft Entra ID,Adopt,Platforms,no change,FALSE,Microsoft Entra ID is a cloud-based identity and access management service.
+VMWare Horizon,Hold,Platforms,no change,FALSE,VMWare Horizon is a platform for delivering virtual desktops and applications.
+OTOBO,Adopt,Platforms,no change,FALSE,OTOBO is an open-source help desk and IT service management (ITSM) software suite. It is designed for managing customer support, IT services, and other business processes through a ticketing system, enabling efficient handling of inquiries, incidents, and service requests.
+ARCGIS PRO,Adopt,Platforms,no change,FALSE,ARCGIS PRO is a professional desktop GIS application from Esri.
+QGIS,Adopt,Platforms,no change,FALSE,QGIS is a free and open-source geographic information system for analyzing and visualizing spatial data.
+AutoDesk,Adopt,Platforms,no change,FALSE,AutoDesk is a software company known for products like AutoCAD, used for 3D design, engineering, and entertainment.
+PHP,Adopt,languages-and-frameworks,no change,FALSE,PHP is a popular general-purpose scripting language especially suited to web development.
+API,Adopt,Techniques,no change,FALSE,API (Application Programming Interface) is a set of tools and protocols for building software and applications.
+Kubernetes,Adopt,Tools,moved in,FALSE,Kubernetes is an open-source platform for automating deployment, scaling, and management of containerized applications.
+Bulma,Trial,languages-and-frameworks,moved in,FALSE,Bulma is a modern CSS framework based on Flexbox.
+MDT,Adopt,Tools,no change,FALSE,MDT (Microsoft Deployment Toolkit) is a software package for automating the deployment of Windows operating systems.
+WDS,Adopt,Tools,no change,FALSE,WDS (Windows Deployment Services) is a network-based installation technology for deploying Windows operating systems.
+Wyse Management Suite,Adopt,Tools,no change,FALSE,Wyse Management Suite is a scalable solution for managing Wyse thin clients.
+Paragon Backup,Adopt,Tools,no change,FALSE,Paragon Backup is a software solution for data backup and disaster recovery.
+Python,Adopt,languages-and-frameworks,no change,FALSE,Python is a high-level, interpreted programming language known for its readability and versatility.
+Powershell,Adopt,languages-and-frameworks,no change,FALSE,Powershell is a task automation and configuration management framework from Microsoft.
+Bash,Adopt,languages-and-frameworks,no change,FALSE,Bash is a Unix shell and command language for interacting with the operating system.
+AppVolume,Adopt,Tools,no change,FALSE,AppVolume is a solution for real-time application delivery and lifecycle management.
+DEM,Adopt,Tools,no change,FALSE,DEM (Dynamic Environment Manager) is a VMware tool for managing user profiles and policies.
+Microsoft Autopilot,Assess,Platforms,new,TRUE,Autopilot is a Microsoft service for pre-configuring and deploying Windows devices.
+MDS,Hold,Tools,no change,FALSE,Modern Mac Deployment refers to a suite of tools and practices used to streamline the deployment, configuration, and management of macOS devices in an enterprise environment.
+Microsoft Planner,Adopt,Tools,no change,FALSE,Microsoft Planner is a task management tool integrated with Microsoft 365.
+Teamviewer,Adopt,Tools,no change,FALSE,Teamviewer is a remote access and remote control software for computers and mobile devices.
+Active Directory,Adopt,Platforms,no change,FALSE,Active Directory is a directory service developed by Microsoft for Windows domain networks.
+GPO,Adopt,Tools,no change,FALSE,GPO (Group Policy Object) is a feature of Active Directory for managing the environment of user and computer accounts.
+Apple School Manager,Adopt,Platforms,no change,FALSE,Apple School Manager is a web-based portal for IT administrators to manage Apple devices and accounts in educational settings.
+Docker,Adopt,Tools,no change,FALSE,Docker is a platform for developing, shipping, and running applications using containerization.
+DevOps,Adopt,Techniques,no change,FALSE,DevOps is a set of practices that combines software development and IT operations to shorten the development lifecycle.
+Service Lifecycle Management,Adopt,Techniques,no change,FALSE,Service Lifecycle Management is the practice of managing the entire lifecycle of a service from inception to retirement.
+Workflow & Automation,Adopt,Techniques,no change,FALSE,Workflow & Automation involves designing, executing, and automating processes to improve efficiency and productivity.
+Service Continuity,Adopt,Techniques,no change,FALSE,Service Continuity is a set of strategies and processes that ensure the continuous availability and resilience of essential services.
+Agile Methodology,Trial,Techniques,new,TRUE,Agile Methodology is an iterative approach to software development that emphasizes flexibility and customer collaboration.
+Microsoft Copilot,Assess,Tools,new,TRUE,Microsoft Copilot is a conversational AI designed to assist you with a wide range of tasks.
